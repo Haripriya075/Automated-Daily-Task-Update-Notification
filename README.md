@@ -1,5 +1,4 @@
 # Automated-Daily-Task-Update-Notification
-# Automated Daily Task Update Notification
 
 An n8n workflow that automates daily task-update communication by triggering at a specific scheduled time and sending a Gmail notification to the Assistant Manager with the required daily task update.
 
